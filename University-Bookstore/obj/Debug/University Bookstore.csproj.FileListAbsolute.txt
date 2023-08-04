@@ -1,0 +1,127 @@
+E:\Visual Studio Community 2019\University Bookstore\bin\Debug\University Bookstore.exe.config
+E:\Visual Studio Community 2019\University Bookstore\bin\Debug\University Bookstore.exe
+E:\Visual Studio Community 2019\University Bookstore\bin\Debug\University Bookstore.pdb
+E:\Visual Studio Community 2019\University Bookstore\obj\Debug\University Bookstore.csproj.AssemblyReference.cache
+E:\Visual Studio Community 2019\University Bookstore\obj\Debug\University_Bookstore.Properties.Resources.resources
+E:\Visual Studio Community 2019\University Bookstore\obj\Debug\University Bookstore.csproj.GenerateResource.cache
+E:\Visual Studio Community 2019\University Bookstore\obj\Debug\University Bookstore.csproj.CoreCompileInputs.cache
+E:\Visual Studio Community 2019\University Bookstore\obj\Debug\University Bookstore.exe
+E:\Visual Studio Community 2019\University Bookstore\obj\Debug\University Bookstore.pdb
+E:\Visual Studio Community 2019\University Bookstore\obj\Debug\University_Bookstore.AdmLogin.resources
+E:\Visual Studio Community 2019\University Bookstore\obj\Debug\University_Bookstore.StdForm.resources
+E:\Visual Studio Community 2019\University Bookstore\obj\Debug\University_Bookstore.StdLogin.resources
+E:\Visual Studio Community 2019\University Bookstore\obj\Debug\University_Bookstore.AddBooks.resources
+E:\Visual Studio Community 2019\University Bookstore\obj\Debug\University_Bookstore.AddStd.resources
+E:\Visual Studio Community 2019\University Bookstore\obj\Debug\University_Bookstore.Dashboard.resources
+C:\Users\KAKON\Desktop\University-Bookstore\bin\Debug\University Bookstore.exe.config
+C:\Users\KAKON\Desktop\University-Bookstore\bin\Debug\University Bookstore.exe
+C:\Users\KAKON\Desktop\University-Bookstore\bin\Debug\University Bookstore.pdb
+C:\Users\KAKON\Desktop\University-Bookstore\obj\Debug\University Bookstore.csproj.AssemblyReference.cache
+C:\Users\KAKON\Desktop\University-Bookstore\obj\Debug\University_Bookstore.AdmLogin.resources
+C:\Users\KAKON\Desktop\University-Bookstore\obj\Debug\University_Bookstore.StdForm.resources
+C:\Users\KAKON\Desktop\University-Bookstore\obj\Debug\University_Bookstore.StdLogin.resources
+C:\Users\KAKON\Desktop\University-Bookstore\obj\Debug\University_Bookstore.AddBooks.resources
+C:\Users\KAKON\Desktop\University-Bookstore\obj\Debug\University_Bookstore.AddStd.resources
+C:\Users\KAKON\Desktop\University-Bookstore\obj\Debug\University_Bookstore.Dashboard.resources
+C:\Users\KAKON\Desktop\University-Bookstore\obj\Debug\University_Bookstore.Properties.Resources.resources
+C:\Users\KAKON\Desktop\University-Bookstore\obj\Debug\University Bookstore.csproj.GenerateResource.cache
+C:\Users\KAKON\Desktop\University-Bookstore\obj\Debug\University Bookstore.csproj.CoreCompileInputs.cache
+C:\Users\KAKON\Desktop\University-Bookstore\obj\Debug\University Bookstore.exe
+C:\Users\KAKON\Desktop\University-Bookstore\obj\Debug\University Bookstore.pdb
+C:\Users\prott\Desktop\University-Bookstore\bin\Debug\University Bookstore.exe.config
+C:\Users\prott\Desktop\University-Bookstore\bin\Debug\University Bookstore.exe
+C:\Users\prott\Desktop\University-Bookstore\bin\Debug\University Bookstore.pdb
+C:\Users\prott\Desktop\University-Bookstore\obj\Debug\University Bookstore.csproj.AssemblyReference.cache
+C:\Users\prott\Desktop\University-Bookstore\obj\Debug\University_Bookstore.AdmLogin.resources
+C:\Users\prott\Desktop\University-Bookstore\obj\Debug\University_Bookstore.StdForm.resources
+C:\Users\prott\Desktop\University-Bookstore\obj\Debug\University_Bookstore.StdLogin.resources
+C:\Users\prott\Desktop\University-Bookstore\obj\Debug\University_Bookstore.AddBooks.resources
+C:\Users\prott\Desktop\University-Bookstore\obj\Debug\University_Bookstore.AddStd.resources
+C:\Users\prott\Desktop\University-Bookstore\obj\Debug\University_Bookstore.Dashboard.resources
+C:\Users\prott\Desktop\University-Bookstore\obj\Debug\University_Bookstore.Properties.Resources.resources
+C:\Users\prott\Desktop\University-Bookstore\obj\Debug\University Bookstore.csproj.GenerateResource.cache
+C:\Users\prott\Desktop\University-Bookstore\obj\Debug\University Bookstore.csproj.CoreCompileInputs.cache
+C:\Users\prott\Desktop\University-Bookstore\obj\Debug\University Bookstore.exe
+C:\Users\prott\Desktop\University-Bookstore\obj\Debug\University Bookstore.pdb
+C:\Users\Mehadi Hasan Shojib\Desktop\University-Bookstore\bin\Debug\University Bookstore.exe.config
+C:\Users\Mehadi Hasan Shojib\Desktop\University-Bookstore\bin\Debug\University Bookstore.exe
+C:\Users\Mehadi Hasan Shojib\Desktop\University-Bookstore\bin\Debug\University Bookstore.pdb
+C:\Users\Mehadi Hasan Shojib\Desktop\University-Bookstore\obj\Debug\University Bookstore.csproj.AssemblyReference.cache
+C:\Users\Mehadi Hasan Shojib\Desktop\University-Bookstore\obj\Debug\University_Bookstore.AdmLogin.resources
+C:\Users\Mehadi Hasan Shojib\Desktop\University-Bookstore\obj\Debug\University_Bookstore.StdForm.resources
+C:\Users\Mehadi Hasan Shojib\Desktop\University-Bookstore\obj\Debug\University_Bookstore.StdLogin.resources
+C:\Users\Mehadi Hasan Shojib\Desktop\University-Bookstore\obj\Debug\University_Bookstore.AddBooks.resources
+C:\Users\Mehadi Hasan Shojib\Desktop\University-Bookstore\obj\Debug\University_Bookstore.AddStd.resources
+C:\Users\Mehadi Hasan Shojib\Desktop\University-Bookstore\obj\Debug\University_Bookstore.Dashboard.resources
+C:\Users\Mehadi Hasan Shojib\Desktop\University-Bookstore\obj\Debug\University_Bookstore.Properties.Resources.resources
+C:\Users\Mehadi Hasan Shojib\Desktop\University-Bookstore\obj\Debug\University Bookstore.csproj.GenerateResource.cache
+C:\Users\Mehadi Hasan Shojib\Desktop\University-Bookstore\obj\Debug\University Bookstore.csproj.CoreCompileInputs.cache
+C:\Users\Mehadi Hasan Shojib\Desktop\University-Bookstore\obj\Debug\University Bookstore.exe
+C:\Users\Mehadi Hasan Shojib\Desktop\University-Bookstore\obj\Debug\University Bookstore.pdb
+C:\Users\MAHIM SARKAR\Desktop\University-Bookstore\bin\Debug\University Bookstore.exe.config
+C:\Users\MAHIM SARKAR\Desktop\University-Bookstore\bin\Debug\University Bookstore.exe
+C:\Users\MAHIM SARKAR\Desktop\University-Bookstore\bin\Debug\University Bookstore.pdb
+C:\Users\MAHIM SARKAR\Desktop\University-Bookstore\obj\Debug\University Bookstore.csproj.AssemblyReference.cache
+C:\Users\MAHIM SARKAR\Desktop\University-Bookstore\obj\Debug\University_Bookstore.AdmLogin.resources
+C:\Users\MAHIM SARKAR\Desktop\University-Bookstore\obj\Debug\University_Bookstore.StdForm.resources
+C:\Users\MAHIM SARKAR\Desktop\University-Bookstore\obj\Debug\University_Bookstore.StdLogin.resources
+C:\Users\MAHIM SARKAR\Desktop\University-Bookstore\obj\Debug\University_Bookstore.AddBooks.resources
+C:\Users\MAHIM SARKAR\Desktop\University-Bookstore\obj\Debug\University_Bookstore.AddStd.resources
+C:\Users\MAHIM SARKAR\Desktop\University-Bookstore\obj\Debug\University_Bookstore.Dashboard.resources
+C:\Users\MAHIM SARKAR\Desktop\University-Bookstore\obj\Debug\University_Bookstore.Properties.Resources.resources
+C:\Users\MAHIM SARKAR\Desktop\University-Bookstore\obj\Debug\University Bookstore.csproj.GenerateResource.cache
+C:\Users\MAHIM SARKAR\Desktop\University-Bookstore\obj\Debug\University Bookstore.csproj.CoreCompileInputs.cache
+C:\Users\MAHIM SARKAR\Desktop\University-Bookstore\obj\Debug\University Bookstore.exe
+C:\Users\MAHIM SARKAR\Desktop\University-Bookstore\obj\Debug\University Bookstore.pdb
+C:\Users\prott\Desktop\NEW FILE\University-Bookstore\bin\Debug\University Bookstore.exe.config
+C:\Users\prott\Desktop\NEW FILE\University-Bookstore\bin\Debug\University Bookstore.exe
+C:\Users\prott\Desktop\NEW FILE\University-Bookstore\bin\Debug\University Bookstore.pdb
+C:\Users\prott\Desktop\NEW FILE\University-Bookstore\obj\Debug\University Bookstore.csproj.AssemblyReference.cache
+C:\Users\prott\Desktop\NEW FILE\University-Bookstore\obj\Debug\University_Bookstore.AdmLogin.resources
+C:\Users\prott\Desktop\NEW FILE\University-Bookstore\obj\Debug\University_Bookstore.StdForm.resources
+C:\Users\prott\Desktop\NEW FILE\University-Bookstore\obj\Debug\University_Bookstore.StdLogin.resources
+C:\Users\prott\Desktop\NEW FILE\University-Bookstore\obj\Debug\University_Bookstore.AddBooks.resources
+C:\Users\prott\Desktop\NEW FILE\University-Bookstore\obj\Debug\University_Bookstore.AddStd.resources
+C:\Users\prott\Desktop\NEW FILE\University-Bookstore\obj\Debug\University_Bookstore.Dashboard.resources
+C:\Users\prott\Desktop\NEW FILE\University-Bookstore\obj\Debug\University_Bookstore.Properties.Resources.resources
+C:\Users\prott\Desktop\NEW FILE\University-Bookstore\obj\Debug\University Bookstore.csproj.GenerateResource.cache
+C:\Users\prott\Desktop\NEW FILE\University-Bookstore\obj\Debug\University Bookstore.csproj.CoreCompileInputs.cache
+C:\Users\prott\Desktop\NEW FILE\University-Bookstore\obj\Debug\University Bookstore.exe
+C:\Users\prott\Desktop\NEW FILE\University-Bookstore\obj\Debug\University Bookstore.pdb
+C:\Users\prott\Desktop\University-Bookstore\obj\Debug\University_Bookstore.Loading.resources
+C:\Users\KAKON\Desktop\University-Bookstore\obj\Debug\University_Bookstore.Loading.resources
+C:\Users\Mehadi Hasan Shojib\Desktop\University-Bookstore\obj\Debug\University_Bookstore.Loading.resources
+C:\Users\MAHIM SARKAR\Desktop\University-Bookstore\obj\Debug\University_Bookstore.Loading.resources
+D:\Semester 06\OOP--02 [Q]\Project\University-Bookstore\bin\Debug\University Bookstore.exe.config
+D:\Semester 06\OOP--02 [Q]\Project\University-Bookstore\bin\Debug\University Bookstore.exe
+D:\Semester 06\OOP--02 [Q]\Project\University-Bookstore\bin\Debug\University Bookstore.pdb
+D:\Semester 06\OOP--02 [Q]\Project\University-Bookstore\obj\Debug\University Bookstore.csproj.AssemblyReference.cache
+D:\Semester 06\OOP--02 [Q]\Project\University-Bookstore\obj\Debug\University_Bookstore.AdmLogin.resources
+D:\Semester 06\OOP--02 [Q]\Project\University-Bookstore\obj\Debug\University_Bookstore.Loading.resources
+D:\Semester 06\OOP--02 [Q]\Project\University-Bookstore\obj\Debug\University_Bookstore.StdForm.resources
+D:\Semester 06\OOP--02 [Q]\Project\University-Bookstore\obj\Debug\University_Bookstore.StdLogin.resources
+D:\Semester 06\OOP--02 [Q]\Project\University-Bookstore\obj\Debug\University_Bookstore.AddBooks.resources
+D:\Semester 06\OOP--02 [Q]\Project\University-Bookstore\obj\Debug\University_Bookstore.AddStd.resources
+D:\Semester 06\OOP--02 [Q]\Project\University-Bookstore\obj\Debug\University_Bookstore.Dashboard.resources
+D:\Semester 06\OOP--02 [Q]\Project\University-Bookstore\obj\Debug\University_Bookstore.Properties.Resources.resources
+D:\Semester 06\OOP--02 [Q]\Project\University-Bookstore\obj\Debug\University Bookstore.csproj.GenerateResource.cache
+D:\Semester 06\OOP--02 [Q]\Project\University-Bookstore\obj\Debug\University Bookstore.csproj.CoreCompileInputs.cache
+D:\Semester 06\OOP--02 [Q]\Project\University-Bookstore\obj\Debug\University Bookstore.exe
+D:\Semester 06\OOP--02 [Q]\Project\University-Bookstore\obj\Debug\University Bookstore.pdb
+E:\SEMESTER PLAN\SEMESTER 06\OOP--02 [Q]\Project\University-Bookstore\bin\Debug\University Bookstore.exe.config
+E:\SEMESTER PLAN\SEMESTER 06\OOP--02 [Q]\Project\University-Bookstore\bin\Debug\University Bookstore.exe
+E:\SEMESTER PLAN\SEMESTER 06\OOP--02 [Q]\Project\University-Bookstore\bin\Debug\University Bookstore.pdb
+E:\SEMESTER PLAN\SEMESTER 06\OOP--02 [Q]\Project\University-Bookstore\obj\Debug\University Bookstore.csproj.AssemblyReference.cache
+E:\SEMESTER PLAN\SEMESTER 06\OOP--02 [Q]\Project\University-Bookstore\obj\Debug\University Bookstore.csproj.SuggestedBindingRedirects.cache
+E:\SEMESTER PLAN\SEMESTER 06\OOP--02 [Q]\Project\University-Bookstore\obj\Debug\University_Bookstore.AdmLogin.resources
+E:\SEMESTER PLAN\SEMESTER 06\OOP--02 [Q]\Project\University-Bookstore\obj\Debug\University_Bookstore.Loading.resources
+E:\SEMESTER PLAN\SEMESTER 06\OOP--02 [Q]\Project\University-Bookstore\obj\Debug\University_Bookstore.StdForm.resources
+E:\SEMESTER PLAN\SEMESTER 06\OOP--02 [Q]\Project\University-Bookstore\obj\Debug\University_Bookstore.StdLogin.resources
+E:\SEMESTER PLAN\SEMESTER 06\OOP--02 [Q]\Project\University-Bookstore\obj\Debug\University_Bookstore.AddBooks.resources
+E:\SEMESTER PLAN\SEMESTER 06\OOP--02 [Q]\Project\University-Bookstore\obj\Debug\University_Bookstore.AddStd.resources
+E:\SEMESTER PLAN\SEMESTER 06\OOP--02 [Q]\Project\University-Bookstore\obj\Debug\University_Bookstore.Dashboard.resources
+E:\SEMESTER PLAN\SEMESTER 06\OOP--02 [Q]\Project\University-Bookstore\obj\Debug\University_Bookstore.Properties.Resources.resources
+E:\SEMESTER PLAN\SEMESTER 06\OOP--02 [Q]\Project\University-Bookstore\obj\Debug\University Bookstore.csproj.GenerateResource.cache
+E:\SEMESTER PLAN\SEMESTER 06\OOP--02 [Q]\Project\University-Bookstore\obj\Debug\University Bookstore.csproj.CoreCompileInputs.cache
+E:\SEMESTER PLAN\SEMESTER 06\OOP--02 [Q]\Project\University-Bookstore\obj\Debug\University Bookstore.exe
+E:\SEMESTER PLAN\SEMESTER 06\OOP--02 [Q]\Project\University-Bookstore\obj\Debug\University Bookstore.pdb
